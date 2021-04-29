@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TriviaGroupHackathon/static/css/main.0d60bdeb.chunk.css",
+    "main.js": "/TriviaGroupHackathon/static/js/main.92ece9a7.chunk.js",
+    "main.js.map": "/TriviaGroupHackathon/static/js/main.92ece9a7.chunk.js.map",
+    "runtime-main.js": "/TriviaGroupHackathon/static/js/runtime-main.7a671fb5.js",
+    "runtime-main.js.map": "/TriviaGroupHackathon/static/js/runtime-main.7a671fb5.js.map",
+    "static/js/2.76746145.chunk.js": "/TriviaGroupHackathon/static/js/2.76746145.chunk.js",
+    "static/js/2.76746145.chunk.js.map": "/TriviaGroupHackathon/static/js/2.76746145.chunk.js.map",
+    "index.html": "/TriviaGroupHackathon/index.html",
+    "static/css/main.0d60bdeb.chunk.css.map": "/TriviaGroupHackathon/static/css/main.0d60bdeb.chunk.css.map",
+    "static/js/2.76746145.chunk.js.LICENSE.txt": "/TriviaGroupHackathon/static/js/2.76746145.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a671fb5.js",
+    "static/js/2.76746145.chunk.js",
+    "static/css/main.0d60bdeb.chunk.css",
+    "static/js/main.92ece9a7.chunk.js"
+  ]
+}
