@@ -9,8 +9,8 @@
 .answer-buttons button {
   padding: 1rem 1.5rem;
   font-family: 'Roboto Mono';
-  margin: 0px 2px;
-  width: 20%;
+  margin: 5px 5px;
+  width: 40%;
 }
 
 .answer-buttons button:hover:enabled {
